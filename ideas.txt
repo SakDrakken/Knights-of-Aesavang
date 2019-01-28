@@ -1,0 +1,11 @@
+Lore:
+[WIP]
+
+Shizzle:
+Platformer, double-jump, grapple
+Inventory system, numerous weapons and armor sets
+multiple worlds
+
+parallax backgrounds
+pseudogenerated semi-levels
+save feature
